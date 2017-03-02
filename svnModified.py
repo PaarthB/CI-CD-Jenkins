@@ -4,7 +4,6 @@ Author: Paarth Bhasin
 Purpose: Build a list of projects which have been recently modified on an existing local SVN server, to later
 checkout those projects and deploy to runtime/production again.
 Date: 7th February, 2017
-Development Location: Cognizant Digital Works, Melbourne (Odecee/Cognizant Office)
 Description: Python Program to read the file 'modified.txt', which contains the list of all the files that have been
 modified, in our SVN repository. Following this, build.properties file will be updated dynamically to contain
 the name of the projects that have been recently modified. This would trigger CI/CD and builds on all those projects
