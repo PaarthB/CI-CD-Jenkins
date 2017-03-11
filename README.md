@@ -1,4 +1,4 @@
-# CI-CD-Jenkins
+# Genernic CI-CD Platform Jenkins
 ![Image](/Pipeline.png?raw=true "Generic CI/CD Pipeline Jenkins")
 - Includes a python program <i>snvModified.py</i> which helps in creating a generic <b>CI/CD</b> platform for the entire SCM (<u>SVN</u>) and dynamically trigger builds for each of the modified projects.
 
