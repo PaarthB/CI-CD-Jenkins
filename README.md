@@ -4,7 +4,7 @@
 
 - It dynamically generates temporary properties files like <i>build0.properties, build1.properties</i> etc, each of which contain a key 'modified' which is set equal to the name of the project that was modified in the SVN repository. Ex: 
         
-        <b>modified=SampleApp</b> 
+        modified=SampleApp 
                 
 The number of these properties files would depend on the number of projects that have been modified in our <b>SCM</b>.
 
