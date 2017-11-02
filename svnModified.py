@@ -1,6 +1,7 @@
 """
 Python Version: Python 3.5.4
 Author: Paarth Bhasin
+Venue: Odecee/Cognizant Office, 6/15 William Street, Melbourne CBD
 Purpose: Build a list of projects which have been recently modified on an existing local SVN server, to later
 checkout those projects and deploy to runtime/production again.
 Date: 7th February, 2017
